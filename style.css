@@ -226,10 +226,10 @@ span {
 
 @keyframes words {
   0%,
-  7% {
+  10% {
     content: "Web Developer";
   }
-  7%,
+  10%,
   20% {
     content: "Ethical Hacker";
   }
